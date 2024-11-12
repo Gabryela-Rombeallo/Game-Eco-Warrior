@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: 8813d3640c2c4ea4ba7510c271c6795e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1318325797823823361
+    second: sampah22_0
+  - first:
+      213: -4295565146704894058
+    second: sampah22_1
+  - first:
+      213: 3215128048627174144
+    second: sampah22_2
+  - first:
+      213: -8678466066960941982
+    second: sampah22_3
+  - first:
+      213: 8019606938825928645
+    second: sampah22_4
+  - first:
+      213: 560348343999549827
+    second: sampah22_5
+  - first:
+      213: 5054040431943738920
+    second: sampah22_6
+  - first:
+      213: 8644832648173739914
+    second: sampah22_7
+  - first:
+      213: 6508738818880688755
+    second: sampah22_8
+  - first:
+      213: -8941909590672038311
+    second: sampah22_9
+  - first:
+      213: 6050351250366791327
+    second: sampah22_10
+  - first:
+      213: -9175223544260967036
+    second: sampah22_11
+  - first:
+      213: 4028482006490784648
+    second: sampah22_12
+  - first:
+      213: 7950388029191318804
+    second: sampah22_13
+  - first:
+      213: 7340822171287931866
+    second: sampah22_14
+  - first:
+      213: 7467360476321765979
+    second: sampah22_15
+  - first:
+      213: 7232050026508933731
+    second: sampah22_16
+  - first:
+      213: 3718168868754610630
+    second: sampah22_17
+  - first:
+      213: 8753580369984759039
+    second: sampah22_18
+  - first:
+      213: -8684351698483182157
+    second: sampah22_19
+  - first:
+      213: -465171458515232221
+    second: sampah22_20
+  - first:
+      213: -942067096481893175
+    second: sampah22_21
+  - first:
+      213: -8329552393365371631
+    second: sampah22_22
+  - first:
+      213: -1041432420806052451
+    second: sampah22_23
+  - first:
+      213: -1912558096906190921
+    second: sampah22_24
+  - first:
+      213: -8013530808762797329
+    second: sampah22_25
+  - first:
+      213: -1417707956582051816
+    second: sampah22_26
+  - first:
+      213: -8091858408307419255
+    second: sampah22_27
+  - first:
+      213: 2785454528839280469
+    second: sampah22_28
+  - first:
+      213: -2921200037229440449
+    second: sampah22_29
+  - first:
+      213: -7745086846318272419
+    second: sampah22_30
+  - first:
+      213: 1414706734099230197
+    second: sampah22_31
+  - first:
+      213: 1582332580541025147
+    second: sampah22_32
+  - first:
+      213: 5592217562497198819
+    second: sampah22_33
+  - first:
+      213: -2744766559183848099
+    second: sampah22_34
+  - first:
+      213: -193064388108215126
+    second: sampah22_35
+  - first:
+      213: 3092828085758286792
+    second: sampah22_36
+  - first:
+      213: 6553898136280189288
+    second: sampah22_37
+  - first:
+      213: -2716346770049696914
+    second: sampah22_38
+  - first:
+      213: -6677429884084634036
+    second: sampah22_39
+  - first:
+      213: 7067856153427705650
+    second: sampah22_40
+  - first:
+      213: 7706353846588276345
+    second: sampah22_41
+  - first:
+      213: -1919332657709809074
+    second: sampah22_42
+  - first:
+      213: -8379108923023369276
+    second: sampah22_43
+  - first:
+      213: -5082630645872120602
+    second: sampah22_44
+  - first:
+      213: -2387261127808677322
+    second: sampah22_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sampah22_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 447
+        width: 79
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff14a72fbad54bde0800000000000000
+      internalID: -1318325797823823361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 374
+        width: 31
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6972b1902461364c0800000000000000
+      internalID: -4295565146704894058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 433
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b41ddfced6e9c20800000000000000
+      internalID: 3215128048627174144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 374
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cf283b715ef8780800000000000000
+      internalID: -8678466066960941982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 377
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf2afa650e5b4f60800000000000000
+      internalID: 8019606938825928645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 380
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381529a99d1c6c700800000000000000
+      internalID: 560348343999549827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 383
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826e772defe832640800000000000000
+      internalID: 5054040431943738920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 418
+        width: 75
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f5811cd7d98f770800000000000000
+      internalID: 8644832648173739914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 376
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372dd23987fa35a50800000000000000
+      internalID: 6508738818880688755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 392
+        width: 71
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956a5528a94f7e380800000000000000
+      internalID: -8941909590672038311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 358
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ef374f76a27f350800000000000000
+      internalID: 6050351250366791327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 318
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48546858cce0ba080800000000000000
+      internalID: -9175223544260967036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 322
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883afe48a0b08e730800000000000000
+      internalID: 4028482006490784648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 262
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d67722ac3755e60800000000000000
+      internalID: 7950388029191318804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 261
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbcde61fd6dfd560800000000000000
+      internalID: 7340822171287931866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 259
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a53f81ac461a760800000000000000
+      internalID: 7467360476321765979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 260
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a5beb9e276d5460800000000000000
+      internalID: 7232050026508933731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 259
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9d80de2e6999330800000000000000
+      internalID: 3718168868754610630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 275
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff426c1d7f6fa7970800000000000000
+      internalID: 8753580369984759039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 267
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b58953542cfa7780800000000000000
+      internalID: -8684351698483182157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 278
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a9c87e5016b89f0800000000000000
+      internalID: -465171458515232221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 228
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4fc9f87fa1de2f0800000000000000
+      internalID: -942067096481893175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 234
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115c377ea3c776c80800000000000000
+      internalID: -8329552393365371631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 162
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95b7442bb61c81f0800000000000000
+      internalID: -1041432420806052451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 211
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bffb954b8a3575e0800000000000000
+      internalID: -1912558096906190921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 228
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe27b0bdf283ac090800000000000000
+      internalID: -8013530808762797329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 204
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8109ea4ff1a435ce0800000000000000
+      internalID: -1417707956582051816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 213
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987141076a1f3bf80800000000000000
+      internalID: -8091858408307419255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 218
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557e771d22ce7a620800000000000000
+      internalID: 2785454528839280469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 152
+        width: 31
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32d4171b00d577d0800000000000000
+      internalID: -2921200037229440449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 198
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5026aa6c8ce38490800000000000000
+      internalID: -7745086846318272419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 134
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd665b774c02a310800000000000000
+      internalID: 1414706734099230197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 154
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bcca3391395f510800000000000000
+      internalID: 1582332580541025147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 80
+        width: 203
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaa8578e3c8b9d40800000000000000
+      internalID: 5592217562497198819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 113
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db9785b51a8e9d0800000000000000
+      internalID: -2744766559183848099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 101
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac180046f8125df0800000000000000
+      internalID: -193064388108215126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb59fae1ceebea20800000000000000
+      internalID: 3092828085758286792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_37
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 25
+        width: 57
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869431381af14fa50800000000000000
+      internalID: 6553898136280189288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b786421099d4ad0800000000000000
+      internalID: -2716346770049696914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 25
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ebe8226e00553a0800000000000000
+      internalID: -6677429884084634036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 25
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ffd9479b1161260800000000000000
+      internalID: 7067856153427705650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 25
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97efb535ef772fa60800000000000000
+      internalID: 7706353846588276345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_42
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 25
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42866bed192d55e0800000000000000
+      internalID: -1919332657709809074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_43
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 48
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbd2e434dc67bb80800000000000000
+      internalID: -8379108923023369276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_44
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 28
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec27444b5ed679b0800000000000000
+      internalID: -5082630645872120602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sampah22_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a8dda07aebeded0800000000000000
+      internalID: -2387261127808677322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
